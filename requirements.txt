@@ -38,8 +38,9 @@ Sphinx==2.2.0
 subword-nmt==0.3.7
 tensorboard==2.3.0
 tensorboardX==2.1
-tokenizers>=0.8.0
-torchtext==0.11.0
+setuptools_rust
+tokenizers>=0.10.0
+torchtext
 tornado==6.0.4
 tqdm==4.36.1
 typing-extensions==3.7.4.1
